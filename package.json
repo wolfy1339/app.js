@@ -30,7 +30,7 @@
   "dependencies": {
     "@octokit/request": "^3.0.0",
     "@types/lru-cache": "^5.1.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^8.5.1",
     "lru-cache": "^5.1.1"
   },
   "devDependencies": {
